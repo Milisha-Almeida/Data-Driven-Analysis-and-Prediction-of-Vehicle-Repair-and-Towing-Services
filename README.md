@@ -72,8 +72,8 @@ The project helps service centers improve cost estimation, plan workloads smarte
 - CatBoost outperformed Logistic Regression for classification of insurance usage.
 - ML insights can optimize staffing, parts inventory, and workflow segmentation.
 
-|  No | Insight                                                                                                                                                    | Derived From|                                                 |
-| :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+|  No | Insight                                                                                                                                                    | Derived From|                                   
+| ----|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------- |
 |  *1* | *Estimated Cost, Service Duration Hours, and Mileage at Service* are the *main factors influencing Total Cost.*                                            |  Exploratory Data Analysis (EDA) & Regression Modeling   |
 |  *2* | *High-cost jobs are often underestimated* — a large gap exists between Estimated and Total Cost for expensive, complex repairs.                              | Feature Engineering (Cost Difference feature) &  EDA     |
 |  *3* | *Vehicle Type affects cost and duration* — trucks/buses have higher repair costs and longer service times than cars or bikes.                                | EDA (grouped analysis & ANOVA tests)                         |
