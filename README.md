@@ -10,19 +10,14 @@
 | Milisha Almeida     | 2502     |
 |shravani Desai    | 2509     |
 | Janhavi Naik    | 2511    |
-| Reena Koranga    | 2504     |  
+| Reena Koranga    | 2504     |
 
+## Project Overview
+This project analyzes vehicle service data to understand the key drivers of repair costs and workshop efficiency. Using data analysis, machine learning, and clustering, it provides insights to:
 
+- Predict vehicle service costs
+- Classify insurance claim usage
+- Identify service clusters for workflow optimization
 
-|  **#** | **Insight**                                                                                                                                                    | **Derived From**                                                  |
-| :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
-|  **1** | **Estimated Cost, Service Duration Hours, and Mileage at Service** are the **main factors influencing Total Cost.**                                            | 🔹 *Exploratory Data Analysis (EDA)* & 🔹 *Regression Modeling*   |
-|  **2** | **High-cost jobs are often underestimated** — a large gap exists between Estimated and Total Cost for expensive, complex repairs.                              | 🔹 *Feature Engineering* (Cost Difference feature) & 🔹 *EDA*     |
-|  **3** | **Vehicle Type affects cost and duration** — trucks/buses have higher repair costs and longer service times than cars or bikes.                                | 🔹 *EDA* (grouped analysis & ANOVA tests)                         |
-|  **4** | **Towed vehicles cost more on average** — towing indicates higher severity or complexity.                                                                      | 🔹 *EDA* (mean comparison between Towed vs Non-Towed jobs)        |
-|  **5** | **Two main service clusters identified:**  <br>• Cluster 0 → Routine, low-cost, short-duration jobs. <br>• Cluster 1 → Complex, high-cost, long-duration jobs. | 🔹 *Clustering Analysis* (K-Means & Gaussian Mixture Models)      |
-|  **6** | **Random Forest Regressor performed best** for predicting Total Cost — handles non-linear patterns better than Linear Regression.                              | 🔹 *Regression Model Evaluation*                                  |
-|  **7** | **CatBoost Classifier performed best** for predicting Insurance Claim usage — handled categorical data more effectively than Logistic Regression.              | 🔹 *Classification Model Evaluation*                              |
-|  **8** | **Insurance usage doesn’t significantly change Total Cost** — claims are used across various job types, not just high-cost ones.                               | 🔹 *EDA* & 🔹 *Classification Results*  
-|**9** | **Top-rated technicians complete complex jobs faster**, showing the value of skilled allocation.                                                               | 🔹 *EDA* (Technician Rating vs Duration/Cost correlation)         |
+The project helps service centers improve cost estimation, plan workloads smarter, and deliver better customer experiences.
 
