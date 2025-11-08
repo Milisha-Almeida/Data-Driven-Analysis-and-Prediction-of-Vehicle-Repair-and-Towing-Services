@@ -33,7 +33,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
 - Streamlit (for interactive dashboard)
 - ---
 ## Dataset
-- The main dataset is `feature_engineered_dataset.csv` (vehicle service records including total cost, service duration, vehicle type, mileage, urgency, etc.).
+- The main dataset is `enhanced_motor_vehicle_repair_towing_dataset.csv`
 - Additional CSVs are generated for:
   - EDA (descriptive statistics, correlation matrix)
   - Regression results (model predictions, comparison)
