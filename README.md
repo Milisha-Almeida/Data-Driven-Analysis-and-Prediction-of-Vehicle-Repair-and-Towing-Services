@@ -9,5 +9,5 @@
 |-------------------|----------|
 | Milisha Almeida     | 2502     |
 |shravani Desai    | 2509     |
-| Janhavi Naik    | 250     |
+| Janhavi Naik    | 2511    |
 | Reena Koranga    | 2504     |
