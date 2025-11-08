@@ -46,7 +46,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
 ## Project Features
 - **Dataset Overview:** Explore dataset shape, missing values, and column details.
 - **EDA (Exploratory Data Analysis):** 
-  - Descriptive statistics and correlation analysis
+  - Descriptive statistics , correlation analysis and statistical analysis
   - Visualizations: histograms, bar plots, pie charts, line plots, heatmaps
 - **Regression:** 
   - Predict total service cost
