@@ -35,13 +35,13 @@ The project helps service centers improve cost estimation, plan workloads smarte
 ## Dataset
 - The main dataset is `enhanced_motor_vehicle_repair_towing_dataset.csv`
 - Additional CSVs are generated :
-  - Sorted dataset: `sorted_motor_vehicle_dataset` (latest 15,000 records)
+  - Sorted dataset: `sorted_motor_vehicle_dataset.csv` (latest 15,000 records)
   - Cleaned dataset: `cleaned_motor_vehicle_dataset.csv` (removing duplicates, fixing missing values, correcting dates, and handling outliers which is used for EDA and statistical tests)
   - Feature Engineered Dataset – `feature_engineered_dataset.csv` (new features such as Cost Difference, Cost Ratio, Time_Diff_Days, and Mileage Level)
-  - EDA (descriptive_statistics.csv , numeric_correlation.csv, statistical_test_results.csv)
-  - Regression results (best_regression_model.csv, regression_model_comparison.csv, regression_predictions.csv, rf_feature_importance.csv)
-  - Classification results (best_classification_model.csv, catboost_confusion_matrix.csv, catboost_feature_importance.csv, classification_model_comparison.csv, classification_predictions.csv,logistic_regression_confusion_matrix.csv)
-  - Clustering results (cluster_interpretation.csv, cluster_model_comparison.csv, final_clustered_dataset.csv, gmm_cluster_means.csv, kmeans_cluster_means.csv)
+  - EDA (`descriptive_statistics.csv` , `numeric_correlation.csv` , `statistical_test_results.csv`)
+  - Regression results (`best_regression_model.csv`, `regression_model_comparison.csv`, `regression_predictions.csv`, `rf_feature_importance.csv`)
+  - Classification results (`best_classification_model.csv` , `catboost_confusion_matrix.csv` , `catboost_feature_importance.csv` , `classification_model_comparison.csv`, `classification_predictions.csv` ,`logistic_regression_confusion_matrix.csv`)
+  - Clustering results (`cluster_interpretation.csv` , `cluster_model_comparison.csv` , `final_clustered_dataset.csv` , `gmm_cluster_means.csv` , `kmeans_cluster_means.csv`)
 ---
 ## Project Features
 - **Dataset Overview:** Explore dataset shape, missing values, and column details.
