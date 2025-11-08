@@ -23,13 +23,15 @@ This project analyzes vehicle service data to understand the key drivers of repa
 The project helps service centers improve cost estimation, plan workloads smarter, and deliver better customer experiences.
 
 ---
-## Technologies Used
+## Tools and Technologies Used
 - Python 3.12.0
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- SciPy, Statsmodels
+- Matplotlib
+- Scikit-learn, CatBoost
+- ColumnTransformer, OneHotEncoder, StandardScaler, LabelEncoder, SimpleImputer
+- OS (file handling), Warnings (to manage system warnings)
 - Streamlit (for interactive dashboard)
-- Scikit-learn (for regression, classification, clustering)
-- CatBoost (for classification)
 - ---
 ## Dataset
 - The main dataset is `feature_engineered_dataset.csv` (vehicle service records including total cost, service duration, vehicle type, mileage, urgency, etc.).
