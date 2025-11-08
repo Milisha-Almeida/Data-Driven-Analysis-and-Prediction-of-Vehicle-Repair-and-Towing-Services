@@ -12,6 +12,7 @@
 | Janhavi Naik    | 2511    |
 | Reena Koranga    | 2504     |
 
+
 |  **#** | **Insight**                                                                                                                                                    | **Derived From**                                                  |
 | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
 |  **1** | **Estimated Cost, Service Duration Hours, and Mileage at Service** are the **main factors influencing Total Cost.**                                            | 🔹 *Exploratory Data Analysis (EDA)* & 🔹 *Regression Modeling*   |
