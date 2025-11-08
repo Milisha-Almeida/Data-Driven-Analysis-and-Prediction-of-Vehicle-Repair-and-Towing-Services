@@ -1,0 +1,28 @@
+KMeans Interpretation:
+
+Cluster 0:
+- Low Total Cost
+- High Mileage Vehicles
+- Short Repair Duration
+- Underestimated Jobs
+
+Cluster 1:
+- High Total Cost
+- Low Mileage Vehicles
+- Long Repair Duration
+- Accurately Estimated Jobs
+
+
+GMM Interpretation:
+
+Cluster 0:
+- Low Total Cost
+- Low Mileage Vehicles
+- Short Repair Duration
+- Underestimated Jobs
+
+Cluster 1:
+- High Total Cost
+- High Mileage Vehicles
+- Long Repair Duration
+- Accurately Estimated Jobs
