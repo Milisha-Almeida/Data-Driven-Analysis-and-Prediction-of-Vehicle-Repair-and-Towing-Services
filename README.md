@@ -65,6 +65,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
   - Cluster-based workflow recommendations
   - Model performance and actionable business strategies
 ---
+**Key Insights**
 |  No | Insight                                                                                                                                                    | Derived From|                                   
 | ----|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------- |
 |  *1* | Estimated Cost, Service Duration Hours, and Mileage at Service are the main factors influencing Total Cost.                                           |  Exploratory Data Analysis (EDA) & Regression Modeling   |
