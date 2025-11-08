@@ -25,7 +25,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
 
 ---
 ## Technologies Used
-- Python 3.x
+- Python 3.12.0
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Streamlit (for interactive dashboard)
