@@ -34,6 +34,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
 - ---
 ## Dataset
 - The main dataset is `enhanced_motor_vehicle_repair_towing_dataset.csv`
+- source: https://www.kaggle.com/datasets/aryan208/motor-vehicle-repair-and-towing-dataset
 - Additional CSVs are generated :
   - Sorted dataset: `sorted_motor_vehicle_dataset.csv` (latest 15,000 records)
   - Cleaned dataset: `cleaned_motor_vehicle_dataset.csv` (removing duplicates, fixing missing values, correcting dates, and handling outliers which is used for EDA and statistical tests)
