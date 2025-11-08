@@ -66,7 +66,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
 ---
 |  No | Insight                                                                                                                                                    | Derived From|                                   
 | ----|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------- |
-|  *1* | Estimated Cost, Service Duration Hours, and Mileage at Service* are the *main factors influencing Total Cost.*                                            |  Exploratory Data Analysis (EDA) & Regression Modeling   |
+|  *1* | Estimated Cost, Service Duration Hours, and Mileage at Service are the *main factors influencing Total Cost.                                           |  Exploratory Data Analysis (EDA) & Regression Modeling   |
 |  *2* | High-cost jobs are often underestimated — a large gap exists between Estimated and Total Cost for expensive, complex repairs.                              | Feature Engineering (Cost Difference feature) &  EDA     |
 |  *3* | Vehicle Type affects cost and duration — trucks/buses have higher repair costs and longer service times than cars or bikes.                                | EDA (grouped analysis & ANOVA tests)                         |
 |  *4* | Towed vehicles cost more on average — towing indicates higher severity or complexity.                                                                      | EDA (mean comparison between Towed vs Non-Towed jobs)        |
