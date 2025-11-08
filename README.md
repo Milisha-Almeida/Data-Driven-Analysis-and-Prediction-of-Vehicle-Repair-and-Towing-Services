@@ -3,7 +3,7 @@
 **Institution:** Goa Business School,Goa University  
  
 ---  
-👨‍💻 **Team Members**
+ **Team Members**
 
 | Name               | Roll No. |
 |-------------------|----------|
