@@ -57,8 +57,7 @@ The project helps service centers improve cost estimation, plan workloads smarte
   - Logistic Regression & CatBoost
   - Confusion matrix and feature importance analysis
 - **Clustering:** 
-  - Group similar service records using K-Means and GMM
-  - Identify patterns in service cost, duration, and mileage
+  - Group similar service records (estimated cost, total cost, service duration hours, mileage at service) using K-Means and GMM
   - Visualize cluster means and distributions
 - **Final Insights:** 
   - Key factors influencing service cost
