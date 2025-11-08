@@ -29,7 +29,6 @@ The project helps service centers improve cost estimation, plan workloads smarte
 - SciPy, Statsmodels
 - Matplotlib
 - Scikit-learn, CatBoost
-- ColumnTransformer, OneHotEncoder, StandardScaler, LabelEncoder, SimpleImputer
 - OS (file handling), Warnings (to manage system warnings)
 - Streamlit (for interactive dashboard)
 - ---
